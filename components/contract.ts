@@ -6,4 +6,4 @@ export const CONTRACT_ADDRESS_MOVEMENT = "0x7D04c7ee2b0a3E96277241Ad71756c9d4C4F
 export enum CHAINID {
     MOVEMENT = 30732,
 };
-export const BLOCK_EXPLORER_MOVEMENT = `https://explorer.devnet.imola.movementlabs.xyz/`;
+export const BLOCK_EXPLORER_MOVEMENT = `https://explorer.devnet.imola.movementlabs.xyz/#/txn/`;
