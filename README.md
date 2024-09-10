@@ -14,3 +14,6 @@ Join us and turn pranks into profits on Movement!
 - Send Shit Soulbound NFT to any account
 - Pay to clean up NFT trash in your wallet
 - Earn commission when others clean up your Shit NFTs
+
+
+Video: https://www.veed.io/view/4adc3ef7-0277-4f4e-8b5c-7c7246543af0?panel=share
